@@ -1,0 +1,6 @@
+gymnasium==1.1.1
+matplotlib==3.10.1
+numpy==2.2.4
+pillow
+torch==2.6.0
+tqdm==4.67.1
