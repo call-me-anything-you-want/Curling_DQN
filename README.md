@@ -1,4 +1,4 @@
-This folder contains all the code needed to train and visualize DQN networks in a curling environment.
+This repo contains all the code needed to train and visualize DQN networks in a curling environment.
 
 # Installation
 Create your conda environment and install the libraries in requirements.txt. Python 3.10 is recommended.
